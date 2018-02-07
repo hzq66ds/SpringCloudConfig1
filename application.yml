@@ -1,1 +1,1 @@
-propfile = aaaaaa
+propfile: propfile-default
