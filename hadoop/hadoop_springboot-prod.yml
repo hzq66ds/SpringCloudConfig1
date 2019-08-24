@@ -1,1 +1,2 @@
 profile: hadoop_springboot-prod
+rateLimiterNum: 2
